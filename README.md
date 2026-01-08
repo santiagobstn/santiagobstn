@@ -1,57 +1,41 @@
-# 👋 Hi, I’m Guilherme Santiago
+# 👋 Hey, I’m Guilherme Santiago
 
-17-year-old student focused on **cybersecurity** and the intersection between **technology, law, and real-world responsibility**.
+I’m interested in the space where **technology, law, and cybersecurity collide**.
 
-I’m interested in how technical systems, when poorly designed or misunderstood, translate into **legal risk, operational failure, and accountability** — especially in environments dealing with sensitive data, confidentiality, and compliance.
-
----
-
-## 🧠 Background
-
-My journey started in **IT support at a corporate law firm**, where I spent 8 months working with:
-
-- Infrastructure and internal systems  
-- User support in a regulated, high-responsibility environment  
-- Technical issues directly tied to **legal exposure and operational impact**
-
-That experience shaped how I see technology: not just as code, but as **decisions with consequences**.
-
-I later completed a **one-semester academic exchange at CATS Academy Boston**, where I:
-- Took **AP Computer Science (Java)**
-- Strengthened my foundations in programming and problem-solving
-- Achieved full English immersion through academic and daily use
+Not just how systems are built, but how they fail, how evidence is produced, and who becomes accountable when things go wrong.
 
 ---
 
-## 🎯 Current Focus
+## ⚖️ What I Care About
 
-Today, my technical focus is on:
-
-- 🐧 **Linux** as my primary environment  
-- 🐍 **Python** for automation, scripting, and security tooling  
-- 🔐 **Cybersecurity fundamentals**, with emphasis on:
-  - systems and operating environments  
-  - networks and risk  
-  - evidence, traceability, and responsibility  
-
-Alongside this, I’m beginning my journey into **systems programming** with:
-- **C** and **Rust**, to better understand low-level concepts  
-- Secure software design  
-- How system architecture influences both **security** and **legal accountability**
+- **LegalTech** and technology in regulated environments  
+- **Cybersecurity** as risk, not just defense  
+- **Data protection, traceability, and evidence**
+- Systems that need to survive audits, disputes, and real-world consequences
+- Technical decisions that become legal decisions later
 
 ---
 
-## ⚖️ Interests
+## 🧠 How I Think About Tech
 
-I’m particularly interested in:
+I’m drawn to systems where:
+- logs matter  
+- data integrity matters  
+- access control matters  
+- assumptions get challenged  
 
-- **LegalTech**
-- **Data protection and compliance**
-- **Ethical cybersecurity**
+I like understanding **how architecture influences responsibility**:
+what can be proven, what can’t, and why that matters legally.
 
-Especially in contexts where **technical execution must align with regulation, governance, and real-world consequences**.
+---
 
-My long-term goal is to grow into a professional who can **bridge technology and law**, helping organizations design, secure, and operate systems with clarity, responsibility, and integrity.
+## 🔧 What I Work With
+
+- **Linux** as my primary environment  
+- **Python** for automation, tooling, and analysis  
+- **C & Rust** to understand systems at a lower level  
+- Systems, networks, and operational risk  
+- Evidence, traceability, and accountability by design
 
 ---
 
@@ -72,7 +56,7 @@ My long-term goal is to grow into a professional who can **bridge technology and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagobstn&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/santiagobstn)
 
@@ -80,6 +64,6 @@ My long-term goal is to grow into a professional who can **bridge technology and
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/Guilherme%20Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-oliveira-santiago-7879b1348/)
-[![Instagram](https://img.shields.io/badge/@guilherme.santiaago-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilherme.santiaago)
+[LinkedIn](https://www.linkedin.com/in/guilherme-de-oliveira-santiago-7879b1348/) ·
+[Instagram](https://instagram.com/guilherme.santiaago)
 
